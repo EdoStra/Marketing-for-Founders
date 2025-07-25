@@ -87,6 +87,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 
 **PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
+**PPPS.** You can use [SaaSHub's Submit tool](https://www.saashub.com/submit/list) to streamline the submission to most directories and communities.
 
 <br/><br/><br/>
 
