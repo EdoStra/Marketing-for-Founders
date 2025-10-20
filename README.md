@@ -21,7 +21,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
 - [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo) _**NEW!**_
-- [🐱‍👤 Marketing on Reddit](%E2%80%8D-marketing-on-reddit) _**NEW!**_
+- [🐱‍👤 Marketing on Reddit](#%E2%80%8D-marketing-on-reddit) _**NEW!**_
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
