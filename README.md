@@ -126,6 +126,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Social Listening: Identifying High-Intent Mentions to Grow Your SaaS](https://www.mrrunlocked.com/p/social-listening-guide)
 - [Sample set-up from Simple Analytics](https://1millionarr.substack.com/p/part-1-how-to-get-your-first-100)
 - [F5 bot](https://f5bot.com/) - a free tool to track mentions on Hacker News and Reddit
+- [Reddit Growth Engine: Automate Monitoring & Extract Insights for Product/Sales/Marketing] (https://www.weweb.io/blog/reddit-seo-automation#why-automate-brand-monitoring-on-reddit)- a free n8n + WeWeb workflow that tracks Reddit mentions and extracts insights on your industry, competitors, product feedback, and SEO content opportunities.
 - [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) - to brainstorm keywords to track
 
 **Other Social Media Marketing Guides:**
