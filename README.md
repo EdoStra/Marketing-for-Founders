@@ -433,6 +433,7 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [40 things we’ve learned about marketing for developers](https://newsletter.posthog.com/p/40-things-weve-learned-about-marketing)
 - [How to create a good GitHub Readme](https://www.markepear.dev/blog/github-readme-guide)
 - [Marketing Skills for Claude Code](https://github.com/coreyhaines31/marketingskills)
+- [Gingiris Growth Playbooks](https://github.com/Gingiris) - Battle-tested playbooks for AI product launches, open source marketing, B2B growth, and ASO. From AFFiNE (60k stars, 30x PH #1).
 
 <br/><br/><br/>
 
