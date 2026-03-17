@@ -366,6 +366,7 @@ Here are a few frameworks to get your price right:
 - [Your guide to reverse trials](https://web.archive.org/web/20250814071651/https://www.growthunhinged.com/p/your-guide-to-reverse-trials)
 - [8 fundamentals about free trials for early stage PLG startups](https://www.mrrunlocked.com/p/free-trials-fundamentals)
 - [14 tactical ideas for selling annual plans](https://web.archive.org/web/20250725183608/https://www.growthunhinged.com/p/how-to-sell-annual-plans)
+- [StackData — SaaS Pricing Datasets](https://greg-rg-git.github.io/stackdata-store/) - Structured CSV/JSON datasets of competitor pricing tiers for 13+ B2B SaaS categories (CRM, email marketing, devtools, PM tools, accounting, AI/ML tools, and more). Useful for benchmarking your pricing against the market before committing to a model.
 
 <br/><br/><br/>
 
