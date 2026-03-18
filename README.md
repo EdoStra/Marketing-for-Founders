@@ -54,6 +54,9 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [SideProjectors](https://www.sideprojectors.com/)
 - [LaunchIgniter](https://launchigniter.com/)
 - [PeerPush](https://peerpush.net/)
+- [Aura++](https://auraplusplus.com)
+- [Early Hunt](https://earlyhunt.com)
+- [Indie Hunt](https://indiehunt.io)
 
 **Software directories:**
 - [Toolfolio](https://toolfolio.io/)
@@ -70,6 +73,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [SourceForge](https://sourceforge.net/)
 - [Softonic](https://softonic.com/)
 - [TrustMRR](https://trustmrr.com/)
+- [Uno Directory](https://uno.directory)
 
 **Lifetime deals platforms & groups:**
 - [AppSumo](https://appsumo.com/)
