@@ -39,6 +39,8 @@ This is why you’ll find here a practical collection of startup resources, tips
 _**PS. Leave me a star ⭐ or [say Hi on X/Twitter](https://x.com/e_stradella) if you find this useful!**_
 <br/><br/><br/>
 
+- [Product Hunt Launch Playbook (30x #1 Winner)](https://github.com/Gingiris/gingiris-launch) — Complete launch SOP from strategy to execution. Battle-tested by a 30x PH #1 winner. Covers KOL outreach, UGC growth, Reddit marketing.
+
 ## 📣 Places To Launch Your Startup
 Launch platforms, software directories, and communities are an easy way to get the first users for your startup and a tiny, steady flow of people to your SaaS. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
@@ -437,6 +439,9 @@ So, how do you get feedback? Here are a few resources to get you started:
 <br/><br/><br/>
 
 ## 👨‍💻 About
+
+- [B2B SaaS Growth Playbook](https://github.com/Gingiris/gingiris-b2b-growth) — Full-lifecycle B2B growth guide from PMF validation to ecosystem growth. Real cases from HeyGen, Deel, Vercel, Supabase.
+- [Open Source Launch Marketing Playbook](https://github.com/Gingiris/gingiris-opensource) — GitHub star growth tactics, KOL partnerships, Reddit marketing, community distribution across global channels.
 This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21ITHKD)
