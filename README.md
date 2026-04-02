@@ -130,6 +130,7 @@ Use these guides to plan your launch strategy:
 - [How to successfully launch on Product Hunt](https://www.lennysnewsletter.com/p/how-to-successfully-launch-on-product)
 - [Product Hunt launch step-by-step guide + templates](https://genesysgrowth.com/resources/product-hunt-launch-step-by-step-guide)
 - [Product Hunt Launch Workbook](https://olenabomko.notion.site/Product-Hunt-Launch-Workbook-2bebf9c31de98158ba98e164f0bdc1a1)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 <br/><br/><br/>
 
