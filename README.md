@@ -451,3 +451,4 @@ In short, I work 1-on-1 with founders to build a strong marketing foundation bas
 
 
 _**Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/e_stradella)**_
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools, one-time crypto payment, no subscriptions.
