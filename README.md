@@ -36,8 +36,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [⚗ User Research](#-user-research)
 - [🧨 Other resources](#-other-resources)
 
-_**PS. Leave me a star ⭐ if you find this useful!**_<br/>
-_**PPS. Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/e_stradella)**_
+_**PS. Leave me a star ⭐ if you find this useful!**_
 <br/><br/><br/>
 
 ## 📣 Places To Launch Your Startup
@@ -340,6 +339,7 @@ Here are a few resources to turn your website into a sales and marketing asset:
 - [How to create a high-converting SaaS homepage](https://www.mrrunlocked.com/p/how-to-high-converting-saas-homepage)
 - [ConversionFactory's SaaS homepage framework](https://x.com/coreyhainesco/status/1948873434098028746?s=20)
 - [SaaS Headline Playbook](https://nicolasmerouze.notion.site/SaaS-Headline-Playbook-176830adbaa5477994946a3106473aba)
+- [70+ SaaS homepage copywriting templates & examples](https://alexestner.notion.site/SaaS-homepage-copywriting-templates-examples-3ffb3b2af65d478b9555bbf5a99bd693)
 - [A quickstart guide to positioning](https://www.lennysnewsletter.com/p/positioning)
 - [The definitive product positioning framework](https://web.archive.org/web/20250814042615/https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://web.archive.org/web/20250421234543/https://www.growthunhinged.com/p/how-to-differentiate-your-product)
 - [The Ultimate Positioning Guide (+ Worksheet)](https://www.mrrunlocked.com/p/the-ultimate-saas-positioning-guide)
@@ -441,13 +441,6 @@ So, how do you get feedback? Here are a few resources to get you started:
 <br/><br/><br/>
 
 ## 👨‍💻 About
-👋Hi! I’m Edoardo and I help early-stage SaaS with product marketing.
+This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
 
-In short, I work 1-on-1 with founders to build a strong marketing foundation based on:
-- **Ideal Customer Profile** so you know who users are, why they care about your SaaS and how to find them.
-- **Messaging & Positioning** this way you understand what to say so that users engage and convert.
-- **Homepage, Feature pages, Industry Pages, Sales decks, Case Studies** and everything else to put positioning and messaging into action.
-- **Go to Market Strategy** to make sure you're doing the right things with Launches, SEO, Reddit, Social Media, Sales, Free Tools, Content, Affiliate programs and so on.
-
-
-_**Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/e_stradella)**_
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21ITHKD)
