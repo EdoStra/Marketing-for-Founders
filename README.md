@@ -148,6 +148,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [How to market to developers on Twitter](https://www.markepear.dev/blog/developer-marketing-twitter)
 - [SuperX Twitter Analytics extension](https://chromewebstore.google.com/detail/superx-twitter-analytics/bjobgelaoehgbnklgcaaehdpckmhkplk) - to find top performing tweets from other accounts
 - [Find your Following](https://www.findyourfollowing.com/) and [How to Dominate Twitter/X by Dagobert Renouf](https://www.dagorenouf.com/how-to-dominate-twitter/) - 2 courses by OG Build in Public creators
+- [The Free X Growth Course](https://slappost.app/learn/) - 5 free no-login lessons on hooks, threads, X's open-source algorithm, replies, and your profile funnel
 
 **Social listening** - tracking and joining online conversations on topics related to your Startup is pretty helpful to get in touch with users and learn more about them:
 - [Social Listening: Identifying High-Intent Mentions to Grow Your SaaS](https://www.mrrunlocked.com/p/social-listening-guide)
