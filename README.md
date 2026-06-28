@@ -208,6 +208,7 @@ These guides and tips will help you get started:
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
 - [How to do keyword research for SEO and AEO](https://www.marketermilk.com/blog/how-to-do-keyword-research)
+- [marketingskills/seo](https://github.com/coreyhaines31/marketingskills) - A free, open-source skills pack that runs SEO audits, programmatic SEO, and keyword research inside Claude Code / Codex. MIT license.
 
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).<br/>
