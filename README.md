@@ -179,6 +179,7 @@ Here are a few ideas to set up your SaaS sales strategy:
 - [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
 - [4 Must-Have Email Templates in SaaS Sales](https://www.mrrunlocked.com/p/the-4-must-have-sales-email-templates)
 - [The Cold Outbound Handbook](https://www.za-zu.com/handbook/intro)
+- [8 must-have founder-led (signal-based) outbound campaigns](https://www.mrrunlocked.com/p/signal-based-outbound-playbook)
 - [The ultimate guide to setting up a cold email growth system](https://coldstartblueprint.com/p/cold-email-setup)
 - [The Best Outbound Tech Stack for Early-Stage Startups](https://www.mrrunlocked.com/p/the-best-outbound-tech-stack)
 - [The cold email that started ConvertKit](https://x.com/natiakourdadze/status/1799848364042854856)
@@ -228,6 +229,9 @@ So, where can you learn how to get found in AI search?
 - [What Companies Are Doing TODAY to Rank High on AI Engines](https://knowledge.gtmstrategist.com/p/what-companies-are-doing-today-to)
 - [A playbook for making AI discovery the best new channel for high-intent leads](https://web.archive.org/web/20251011132541/https://www.growthunhinged.com/p/ai-discovery-playbook)
 - [AI & LLM SEO Course: Get ChatGPT, Claude & Perplexity to Recommend You](https://magicspace.agency/courses/ai-seo)
+- [Answer Engine Optimization (AEO) Course from Ahrefs](https://ahrefs.com/academy/aeo-course)
+- [A startup's guide to answer engine optimization - Posthog](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how)
+- [How to Get AI to Recommend Your Business](https://www.youtube.com/watch?v=SeIk6owE5LM)
 
 <br/><br/><br/>
 
@@ -245,6 +249,7 @@ So, how to promote an App/SaaS/Startup on Reddit without getting banned?
 - [Tips on marketing on Reddit from Lemlist](https://www.linkedin.com/posts/erwanxgrowth_everyone-says-reddit-is-the-new-growth-channel-activity-7373324721553154048-Ny4M)
 - [The storytelling hack for 10x buzz on Reddit](https://web.archive.org/web/20250319083601/https://www.marketingideas.com/p/the-storytelling-hack-for-10x-buzz)
 - [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
+- [How Rewardful is nailing the Reddit Marketing game](https://upvoted.substack.com/p/how-rewardful-is-nailing-the-reddit)
 
 
 **PS.** If you're looking for a list of subreddits that allow self-promotion go back to [Places To Launch Your Startup](#-places-to-launch-your-startup), and if you're looking to set up your Reddit social listening strategy go back to [Social Media Marketing](#-social-media-marketing).
@@ -317,6 +322,7 @@ Word-of-mouth is often the main growth driver for bootstrapped startups. Why? Be
 - [Your guide to B2B referrals](https://web.archive.org/web/20250523213447/https://www.growthunhinged.com/p/your-guide-to-b2b-referrals)
 - [Your ultimate guide to affiliate referrals for B2B SaaS](https://www.mrrunlocked.com/p/your-ultimate-guide-to-affiliate-referrals)
 - [8 Affiliate & Referral Email Examples](https://pin.it/5BxRb4Zv4)
+- [The Modern Affiliate Program Playbook by Rewardful](https://playbook.rewardful.com/)
 
 <br/><br/><br/>
 
