@@ -402,6 +402,7 @@ Some ideas are great, but most aren’t worth your time. So, how can you validat
 - [How to not do product discovery](https://demandmaven.substack.com/p/how-to-not-do-product-discovery)
 - [The cold email that started a $100M/yr company](https://marketingexamples.com/sales/jason-cohen)
 - [Interview Script: Discovery Phase (before you've built anything)](https://deployempathy.substack.com/p/customer-interview-script-discovery-phase-i-e-before-you-ve-built-anything-415336)
+- [How much does an app make? Data from 761,898 iOS apps](https://getappniche.com/answers/how-much-does-an-app-make) - benchmark app-category revenue before building a mobile product.
 
 <br/><br/><br/>
 
