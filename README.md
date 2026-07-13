@@ -250,6 +250,8 @@ So, how to promote an App/SaaS/Startup on Reddit without getting banned?
 - [The storytelling hack for 10x buzz on Reddit](https://web.archive.org/web/20250319083601/https://www.marketingideas.com/p/the-storytelling-hack-for-10x-buzz)
 - [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
 - [How Rewardful is nailing the Reddit Marketing game](https://upvoted.substack.com/p/how-rewardful-is-nailing-the-reddit)
+- [How to start and grow a subreddit for B2B SaaS](https://www.hackthealgo.com/p/how-to-start-and-grow-a-subreddit)
+- [Reddit SEO strategy for B2B brands](https://www.hackthealgo.com/p/my-reddit-seo-strategy-for-b2b-brands)
 
 
 **PS.** If you're looking for a list of subreddits that allow self-promotion go back to [Places To Launch Your Startup](#-places-to-launch-your-startup), and if you're looking to set up your Reddit social listening strategy go back to [Social Media Marketing](#-social-media-marketing).
