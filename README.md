@@ -159,6 +159,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
 - [Pinterest Growth Guide](https://www.blogtopin.com/growth-guide/start-here)
 - [How to Market a Viral App through organic UGC](https://youtu.be/9r4kS9zZj9s?si=E9WSZdrgd9BrybxH)
+- [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 <br/><br/><br/>
 
