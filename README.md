@@ -34,6 +34,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [🔥 Conversion Rate Optimization](#-conversion-rate-optimization)
 - [💡 Idea Validation](#-idea-validation)
 - [⚗ User Research](#-user-research)
+- [🤖 Skills](#-skills) _**NEW!**_
 - [🧨 Other resources](#-other-resources)
 
 _**PS. Leave me a star ⭐ if you find this useful!**_
@@ -429,6 +430,36 @@ So, how do you get feedback? Here are a few resources to get you started:
   - [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - to learn from the customers you want more of
   - [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - if you're struggling with churn
   - [Feature Request Script](https://deployempathy.substack.com/p/turning-feature-requests-into-customer-research-450754) - when you want to dive deep into a feature request
+
+<br/><br/><br/>
+
+## 🤖 Skills
+All the marketing topics above are also available as agent skills. Each skill acts as a marketing advisor: it asks about your product, audience, and current efforts, then delivers a tailored action plan with concrete next steps and further reading from this repo.
+
+**How to install:**
+
+Copy the `skills/` folder into your AI agents config path.
+
+| Command | What It Does |
+|---|---|
+| `/launch-platforms` | Recommends launch platforms, directories, subreddits, and LTD sites based on product type. |
+| `/product-hunt-launch` | Builds a Product Hunt launch timeline and strategy. |
+| `/social-media-strategy` | Advises on building-in-public, social listening, and platform selection. |
+| `/cold-outreach` | Helps define ICP, draft cold emails/DMs, and plan outreach sequences. |
+| `/seo-plan` | Creates a traditional SEO roadmap for early-stage startups. |
+| `/llm-seo` | Strategy to get recommended by ChatGPT, Claude, Perplexity, and Gemini. |
+| `/reddit-marketing` | Reddit strategy: subreddit selection, post framing, and self-promo approach. |
+| `/email-flows` | Designs onboarding, activation, and retention email sequences. |
+| `/content-strategy` | Plans content creation, distribution, and lead magnets. |
+| `/ad-strategy` | Plans paid campaigns with platform selection and budget guidance. |
+| `/influencer-plan` | Influencer/creator partnership strategy and outreach. |
+| `/referral-program` | Designs referral/affiliate program structure. |
+| `/free-tool-marketing` | Brainstorms mini-tool ideas for organic traffic and backlinks. |
+| `/landing-page` | Reviews/improves homepage copy, positioning, and messaging. |
+| `/pricing-strategy` | Evaluates pricing model, trial structure, and willingness-to-pay. |
+| `/cro-audit` | Suggests CRO experiments and A/B test ideas. |
+| `/idea-validation` | Guides through validation frameworks and discovery interviews. |
+| `/user-research` | Designs survey questions, interview scripts, and feedback loops. |
 
 <br/><br/><br/>
 
