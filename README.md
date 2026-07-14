@@ -335,6 +335,7 @@ Free mini tools are your best bet on going viral, generating PR coverage and bac
 - [Side Project Marketing: What Is It & How to Do It](https://www.failory.com/blog/side-project-marketing)
 - [Engineering as Marketing (with examples from Hubspot, Shopify & Ahrefs)](https://thegrowthmind.substack.com/p/engineering-as-marketing)
 - [Building Free Tools for Marketing (SEO)](https://dmytrokrasun.com/posts/building-free-tools-for-marketing-seo/)
+- [SmartBizCalc — 292 free business calculators as engineering-as-marketing](https://smartbizcalc.com/) — Solo-built 292 free tools (break-even, LLC cost, startup cost, payroll tax, and more); drives organic traffic with zero paid acquisition.
 
 <br/><br/><br/>
 
