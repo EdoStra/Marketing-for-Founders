@@ -335,6 +335,7 @@ Free mini tools are your best bet on going viral, generating PR coverage and bac
 - [Side Project Marketing: What Is It & How to Do It](https://www.failory.com/blog/side-project-marketing)
 - [Engineering as Marketing (with examples from Hubspot, Shopify & Ahrefs)](https://thegrowthmind.substack.com/p/engineering-as-marketing)
 - [Building Free Tools for Marketing (SEO)](https://dmytrokrasun.com/posts/building-free-tools-for-marketing-seo/)
+- [Prestyj's open statistics dataset & embed widgets](https://prestyj.com/data) - Case study of CC BY 4.0 dataset distribution as a backlink engine: every cited stat carries an embed iframe that links back; widely useful as a free founder resource for benchmarks on lead response, AI adoption, video ad ROI, and CPL by industry.
 
 <br/><br/><br/>
 
