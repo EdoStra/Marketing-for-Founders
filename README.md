@@ -147,6 +147,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Turn Building in Public into your most profitable GTM channel](https://knowledge.gtmstrategist.com/p/turn-building-in-public-into-your)
 - [How to market to developers on Twitter](https://www.markepear.dev/blog/developer-marketing-twitter)
 - [SuperX Twitter Analytics extension](https://chromewebstore.google.com/detail/superx-twitter-analytics/bjobgelaoehgbnklgcaaehdpckmhkplk) - to find top performing tweets from other accounts
+- [X-AlgoVision Pro](https://github.com/dogemos-josh/X-AlgoVision-Pro-Open-Source-Web3-Growth-Engine) - A predictive engine to help founders decode the X (Twitter) algorithm and maximize post visibility.
 - [Find your Following](https://www.findyourfollowing.com/) and [How to Dominate Twitter/X by Dagobert Renouf](https://www.dagorenouf.com/how-to-dominate-twitter/) - 2 courses by OG Build in Public creators
 
 **Social listening** - tracking and joining online conversations on topics related to your Startup is pretty helpful to get in touch with users and learn more about them:
