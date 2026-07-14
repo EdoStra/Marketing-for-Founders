@@ -70,6 +70,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [SourceForge](https://sourceforge.net/)
 - [Softonic](https://softonic.com/)
 - [TrustMRR](https://trustmrr.com/)
+- [ZPlatform.ai](https://zplatform.ai/)
 
 **Lifetime deals platforms & groups:**
 - [AppSumo](https://appsumo.com/)
