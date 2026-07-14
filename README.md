@@ -46,6 +46,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [Betalist](https://betalist.com/)
 - [Fazier](https://fazier.com/)
 - [Uneed](https://www.uneed.best/)
+- [SoloPush](https://solopush.com/)
 - [Microlaunch](https://microlaunch.net/)
 - [Peerlist](https://peerlist.io/)
 - [Indie Hackers](https://www.indiehackers.com/products)
