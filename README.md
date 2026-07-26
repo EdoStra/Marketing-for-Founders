@@ -445,6 +445,7 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [40 things we’ve learned about marketing for developers](https://newsletter.posthog.com/p/40-things-weve-learned-about-marketing)
 - [How to create a good GitHub Readme](https://www.markepear.dev/blog/github-readme-guide)
 - [Marketing Skills for Claude Code](https://github.com/coreyhaines31/marketingskills)
+- [Marketing Workspace for AI agents](https://github.com/iwe-org/marketing-workspace) - open-source template: a markdown campaign memory + CRM your AI marketing agent reads and writes (pairs with Marketing Skills)
 
 <br/><br/><br/>
 
