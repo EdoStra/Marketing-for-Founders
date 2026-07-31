@@ -389,6 +389,7 @@ Little tweaks can have a huge impact on conversions. Here are a few ideas ready 
 - [The most powerful CTA? Hint: It's definitely not "Book a Demo"](https://www.marketingideas.com/p/the-most-powerful-cta)
 - [23% more trial signups after paywall redesign](https://marketingexamples.com/landing-page/blinkist)
 - [One blurry background = 94% more conversions](https://web.archive.org/web/20250319080954/https://www.marketingideas.com/p/my-weirdest-ab-test-blew-everyones)
+- [Klinky](https://klinky.io) — A/B testing link shortener: split one short link between two destinations at weights you choose and compare variants with real click data. Free tier available.
 
 <br/><br/><br/>
 
