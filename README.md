@@ -121,6 +121,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
 
 <br/><br/><br/>
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ## 😾 Marketing for Product Hunt Launch
 Product Hunt is still one of the most effective ways to get early users (if you can pull off a successful launch). Yes, it takes a lot of preparation, promotion and follow-up work but hitting #1 on Product Hunt can get you a ton of honest feedback, downloads, users and PR buzz.
