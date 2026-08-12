@@ -70,6 +70,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [SourceForge](https://sourceforge.net/)
 - [Softonic](https://softonic.com/)
 - [TrustMRR](https://trustmrr.com/)
+- [Mydentify – Where Should I Launch?](https://mydentify.com/tools/startup-directory-finder) - Free shortlist builder for matching a product to reviewed launch platforms and software directories.
 
 **Lifetime deals platforms & groups:**
 - [AppSumo](https://appsumo.com/)
