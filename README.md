@@ -302,6 +302,7 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [250+ DevTool Ads examples](https://www.reo.dev/devtools-ad-examples)
 - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/founders/dev-marketing-paid-ads)
 - [How to run effective Reddit ads: Meme-Style, Incentive-First Copy, and "Is This an Ad?" Text Posts](https://www.linkedin.com/posts/aayildirim_if-youre-running-reddit-ads-you-know-its-activity-7364309579888771073-tvTR)
+- [AdMapix](https://www.admapix.com/) - An AI ad creative intelligence platform for researching competitor ads across major channels and turning creative patterns into research briefs.
 
 <br/><br/><br/>
 
