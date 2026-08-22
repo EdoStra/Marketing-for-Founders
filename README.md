@@ -335,6 +335,7 @@ Free mini tools are your best bet on going viral, generating PR coverage and bac
 - [Side Project Marketing: What Is It & How to Do It](https://www.failory.com/blog/side-project-marketing)
 - [Engineering as Marketing (with examples from Hubspot, Shopify & Ahrefs)](https://thegrowthmind.substack.com/p/engineering-as-marketing)
 - [Building Free Tools for Marketing (SEO)](https://dmytrokrasun.com/posts/building-free-tools-for-marketing-seo/)
+- Live example: [RefundRadar](https://guerindylan555-boop.github.io/refundradar/) — a free Stripe chargeback evidence-pack generator (engineering-as-marketing for a $9 paid tier). Free preview of the rebuttal letter + per-reason-code evidence checklist, no signup.
 
 <br/><br/><br/>
 
