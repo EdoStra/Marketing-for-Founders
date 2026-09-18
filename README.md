@@ -273,6 +273,7 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 - [15 SaaS Email Flows Ideas](https://www.mailmodo.com/email-flow/saas-email-flow/)
 - [How to optimize an email automation](https://copyhackers.com/2025/03/how-to-optimize-an-email/)
 - [How we built our onboarding email flow - PostHog](https://posthog.com/blog/how-we-built-email-onboarding)
+- [Email Marketing for Startups: The Complete Operator’s Guide](https://stripo.email/blog/email-marketing-for-startups-the-complete-operators-guide/)
 
 <br/><br/><br/>
 
