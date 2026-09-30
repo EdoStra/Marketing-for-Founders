@@ -387,6 +387,7 @@ Little tweaks can have a huge impact on conversions. Here are a few ideas ready 
 - [Are you making this website mistake?](https://web.archive.org/web/20250210005430/https://www.marketingideas.com/p/are-you-making-this-website-mistake)
 - [Surprising lessons from 20,000 experiments](https://web.archive.org/web/20250821014350/https://www.growthunhinged.com/p/surprising-lessons-website-conversion)
 - [The most powerful CTA? Hint: It's definitely not "Book a Demo"](https://www.marketingideas.com/p/the-most-powerful-cta)
+- [Leakly - AI-powered conversion audit that finds revenue leaks on your website and prioritizes what to fix](https://leakly.ai/)
 - [23% more trial signups after paywall redesign](https://marketingexamples.com/landing-page/blinkist)
 - [One blurry background = 94% more conversions](https://web.archive.org/web/20250319080954/https://www.marketingideas.com/p/my-weirdest-ab-test-blew-everyones)
 
