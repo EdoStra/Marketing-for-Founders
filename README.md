@@ -325,6 +325,7 @@ Word-of-mouth is often the main growth driver for bootstrapped startups. Why? Be
 - [Your ultimate guide to affiliate referrals for B2B SaaS](https://www.mrrunlocked.com/p/your-ultimate-guide-to-affiliate-referrals)
 - [8 Affiliate & Referral Email Examples](https://pin.it/5BxRb4Zv4)
 - [The Modern Affiliate Program Playbook by Rewardful](https://playbook.rewardful.com/)
+- [Power CM Partners](https://partners.powercm-software.com/) helped us publish software partner campaigns and give publishers tracked links for visits, attributed registrations, and eligible sales. Joining is free.
 
 <br/><br/><br/>
 
