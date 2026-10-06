@@ -286,6 +286,7 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [How I promote my content - Marketing Examples](https://marketingexamples.com/content/sharing)
 - [Content distribution checklist (thanks to Ross Simmonds)](https://docs.google.com/spreadsheets/d/1XaqKmHnMcRRznR-JQJsktlzkZ2fRmszGWZTeLeRyYZk/edit?gid=210200339#gid=210200339)
 - [How to create powerful SaaS Lead Magnets + examples](https://www.mrrunlocked.com/p/saas-lead-magnets)
+- [Spanish 30-day content planner (free XLSX)](https://comprarseguidoresig.es/resources/es/content-planner.xlsx) - Plan topics, formats, messages and what to evaluate, with a clearly marked fictional example and no registration.
 
 <br/><br/><br/>
 
