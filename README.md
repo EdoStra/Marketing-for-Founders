@@ -54,6 +54,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [SideProjectors](https://www.sideprojectors.com/)
 - [LaunchIgniter](https://launchigniter.com/)
 - [PeerPush](https://peerpush.net/)
+- [DebutPin](https://debutpin.com)
 
 **Software directories:**
 - [Toolfolio](https://toolfolio.io/)
