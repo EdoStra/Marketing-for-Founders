@@ -429,6 +429,7 @@ So, how do you get feedback? Here are a few resources to get you started:
   - [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - to learn from the customers you want more of
   - [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - if you're struggling with churn
   - [Feature Request Script](https://deployempathy.substack.com/p/turning-feature-requests-into-customer-research-450754) - when you want to dive deep into a feature request
+- [WishKit](https://www.wishkit.io) - Shows you what users actually want built next. Users of your iOS or web app submit feature requests and vote on them inside the app. Has a free plan.
 
 <br/><br/><br/>
 
