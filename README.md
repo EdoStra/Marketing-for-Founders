@@ -66,6 +66,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [TrustPilot](https://www.trustpilot.com/)
 - [Capterra](https://www.capterra.com/)
 - [There's an AI for that](https://theresanaiforthat.com/)
+- [RespawnStack](https://respawnstack.com/)
 - [Alternativeto](https://alternativeto.net/)
 - [SourceForge](https://sourceforge.net/)
 - [Softonic](https://softonic.com/)
