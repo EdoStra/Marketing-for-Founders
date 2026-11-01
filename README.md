@@ -154,6 +154,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Sample set-up from Simple Analytics](https://1millionarr.substack.com/p/part-1-how-to-get-your-first-100)
 - [F5 bot](https://f5bot.com/) - a free tool to track mentions on Hacker News and Reddit
 - [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) - to brainstorm keywords to track
+- [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for managing connected accounts and proxies. Its Lead Radar monitors selected communities for buying requests and shows the original message and match evidence. A [14-day full-access trial](https://opensparta.com/en/pricing) is available.
 
 **Other Social Media Marketing Guides:**
 - [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
