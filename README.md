@@ -445,6 +445,7 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [40 things we’ve learned about marketing for developers](https://newsletter.posthog.com/p/40-things-weve-learned-about-marketing)
 - [How to create a good GitHub Readme](https://www.markepear.dev/blog/github-readme-guide)
 - [Marketing Skills for Claude Code](https://github.com/coreyhaines31/marketingskills)
+- [Telegram Campaign Economics: A Formula-Ready Worksheet](https://gist.github.com/thinkpad2050/a0391e659d8244142a746ebf3021af33) - A free guide and CSV that helped us make spend, click, qualified-conversation, and trial assumptions explicit when planning Telegram campaigns; it includes CAC/ROAS formulas and attribution limits. Maintained by OpenSparta Team.
 
 <br/><br/><br/>
 
