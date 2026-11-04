@@ -159,6 +159,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
 - [Pinterest Growth Guide](https://www.blogtopin.com/growth-guide/start-here)
 - [How to Market a Viral App through organic UGC](https://youtu.be/9r4kS9zZj9s?si=E9WSZdrgd9BrybxH)
+- [twtData follower export](https://twtdata.com/download-twitter-followers/) - export the followers of a public X (Twitter) account to CSV to study a competitor's audience
 
 <br/><br/><br/>
 
