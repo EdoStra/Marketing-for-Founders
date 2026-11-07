@@ -70,6 +70,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [SourceForge](https://sourceforge.net/)
 - [Softonic](https://softonic.com/)
 - [TrustMRR](https://trustmrr.com/)
+- [Public Prompts](https://www.publicprompts.art/). AI-tool discovery directory with free browsing; owner submissions cost US$19.99 once plus tax before editorial review, with refunds if declined.
 
 **Lifetime deals platforms & groups:**
 - [AppSumo](https://appsumo.com/)
