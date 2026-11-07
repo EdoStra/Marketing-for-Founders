@@ -213,6 +213,7 @@ These guides and tips will help you get started:
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).<br/>
 **PPS.** If you're building iOS apps also check these two ASO guides: [Create an App Store listing that ranks](https://refined.so/blog/app-store-listing-prompt) and [Rank higher on App Store](https://refined.so/blog/app-store-keywords-guide)
+- [App Store Localizer](https://asolocalization.com) - paste a public App Store URL, get translated screenshots plus localized metadata (title, subtitle, description, keywords) per locale; one-time price, no subscription.
 
 <br/><br/><br/>
 
