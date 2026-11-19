@@ -299,6 +299,7 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [The guide to advertise your SaaS & Software on Facebook](https://makerads.guide/)
 - [Free B2B Ads courses from AdConversion](https://www.adconversion.com/courses)
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
+- [How to Use the Meta Ad Library](https://hermoso.ai/blog/how-to-use-meta-ad-library/) - a free walkthrough of Facebook's public ads library: search a competitor's ads, use the filters, and spot the winners by how long each ad has run
 - [250+ DevTool Ads examples](https://www.reo.dev/devtools-ad-examples)
 - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/founders/dev-marketing-paid-ads)
 - [How to run effective Reddit ads: Meme-Style, Incentive-First Copy, and "Is This an Ad?" Text Posts](https://www.linkedin.com/posts/aayildirim_if-youre-running-reddit-ads-you-know-its-activity-7364309579888771073-tvTR)
