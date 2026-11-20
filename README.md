@@ -154,6 +154,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Sample set-up from Simple Analytics](https://1millionarr.substack.com/p/part-1-how-to-get-your-first-100)
 - [F5 bot](https://f5bot.com/) - a free tool to track mentions on Hacker News and Reddit
 - [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) - to brainstorm keywords to track
+- [Hearl](https://hearl.org/). A shared inbox for public posts about your product from Reddit, X, Hacker News, YouTube, app-store reviews and GitHub issues; AI flags which need a reply, and each one gets an owner, a deadline and an outcome. Free plan included.
 
 **Other Social Media Marketing Guides:**
 - [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
