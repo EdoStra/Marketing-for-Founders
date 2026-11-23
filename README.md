@@ -232,6 +232,7 @@ So, where can you learn how to get found in AI search?
 - [Answer Engine Optimization (AEO) Course from Ahrefs](https://ahrefs.com/academy/aeo-course)
 - [A startup's guide to answer engine optimization - Posthog](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how)
 - [How to Get AI to Recommend Your Business](https://www.youtube.com/watch?v=SeIk6owE5LM)
+- [2026 Top 50 AI & Dev SaaS AI Search Readiness & /llms.txt Benchmark (Live Data + Free Technical GEO Auditor)](https://zcoldwater.github.io/citeready-cli/ai-search-readiness-benchmark-2026.html)
 
 <br/><br/><br/>
 
